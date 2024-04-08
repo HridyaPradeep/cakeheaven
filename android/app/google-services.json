@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506700443254",
+    "project_id": "mybakes-6a093",
+    "storage_bucket": "mybakes-6a093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506700443254:android:e70358b217ca3aaec03957",
+        "android_client_info": {
+          "package_name": "com.example.cakeheaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8SrGPK94q1N6PN5eYNOf_eJBFQmn1Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
